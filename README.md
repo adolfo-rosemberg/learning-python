@@ -1,4 +1,4 @@
-## Small projects in Python ##
+# Small projects in Python #
 
 This is a personal repository for learning python concepts through exercises.
 
@@ -9,3 +9,6 @@ I hope this repository will be of help to you :D
 
 ### Projects ###
 * Fibonacci
+* String methods
+* Number methods
+* List methods
