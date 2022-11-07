@@ -9,6 +9,8 @@ I hope this repository will be of help to you :D
 
 ### Projects ###
 * Fibonacci
-* String methods
-* Number methods
-* List methods
+* Fazt course
+  * String methods
+  * Number methods
+  * List methods
+  * Tuples methods
