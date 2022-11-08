@@ -14,3 +14,4 @@ I hope this repository will be of help to you :D
   * Number methods
   * List methods
   * Tuples methods
+  * Set methods
