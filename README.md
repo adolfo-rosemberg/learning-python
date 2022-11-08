@@ -15,3 +15,6 @@ I hope this repository will be of help to you :D
   * List methods
   * Tuples methods
   * Set methods
+  * Dictionaries methods
+  * Loops
+  * Modules
